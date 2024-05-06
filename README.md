@@ -1,4 +1,12 @@
-### Hi there 👋
+## Bio
+
+Hi! I'm Diego!
+
+I'm currently an engineering student at University of Málaga, Spain.
+
+Member of @RoboRescueUMA.
+
+
 
 <!--
 **DiegoCaruanaMontes/DiegoCaruanaMontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
